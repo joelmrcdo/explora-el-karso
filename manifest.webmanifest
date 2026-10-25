@@ -1,0 +1,17 @@
+{
+  "name": "Explora el karso · Ciudadanos del Karso",
+  "short_name": "Explora el karso",
+  "description": "Recorrido interactivo por el karso de Puerto Rico, de Ciudadanos del Karso.",
+  "lang": "es-PR",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#FAF6EF",
+  "theme_color": "#00654C",
+  "icons": [
+    { "src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png" },
+    { "src": "icons/icon-maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
